@@ -1,7 +1,9 @@
+
+
 /**
   PatternFly React Storybook Included Stylesheets
 */
-@import 'patternfly.less';
+@import 'patternfly';
 
 /**
   Third Party / Dependency LESS imports here
@@ -10,4 +12,4 @@
 /**
   Patternfly React Specific Extensions
 */
-@import '../../less/patternfly-react.less';
+@import 'patternfly-react';
